@@ -18,7 +18,7 @@ const HomeEl = styled(Centered)`
   }
 
   ${media.laptop} {
-    padding-top: 38rem;
+    padding-top: 28rem;
     padding-inline: 16.5rem;
 
     background-image: url(/images/home/background-home-desktop.jpg);

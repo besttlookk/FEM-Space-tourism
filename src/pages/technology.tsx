@@ -142,12 +142,13 @@ const DesktopImageWrapper = styled.div`
   position: absolute;
   display: none;
   right: 0;
-  bottom: 10%;
+  top: 50%;
+  transform: translateY(-40%);
 
   ${media.laptop} {
     display: block;
-    height: 60rem;
-    width: 50.8rem;
+    height: 56rem;
+    width: 48rem;
   }
 `;
 

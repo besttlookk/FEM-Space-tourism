@@ -18,8 +18,6 @@ const DestinationEl = styled.div`
 
   ${media.laptop} {
     background-image: url(/images/destination/background-destination-desktop.jpg);
-    height: 100vh;
-    overflow: hidden;
   }
 `;
 
